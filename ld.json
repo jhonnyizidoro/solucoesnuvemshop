@@ -1,0 +1,12 @@
+{
+	"@context": "http://schema.org/",
+	"@type": "Organization",
+	"name": "Soluções Nuvemshop",
+	"url": "https://www.solucoesnuvemshop.com.br",
+	"contactPoint": {
+		"@type": "ContactPoint",
+		"contactType": "customer support",
+		"telephone": "[+55 41 99999-99999]",
+		"email": "contato@solucoesnuvemshop.com"
+	}
+}
